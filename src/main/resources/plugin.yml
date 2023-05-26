@@ -1,0 +1,10 @@
+name: FuturehitMinecraftPlugin1
+version: 1.0.0
+main: hamburger2506.com.github.futurehitminecraftplugin1.ExamplePlugin
+description: A plugin for Futurehit
+author: hamburger2506
+website: https://github.com/hamburger2506/FuturehitMinecraftPlugin1
+api-version: 1.19
+libraries:
+  - com.google.guava:guava:30.1.1-jre
+  - com.google.code.gson:gson:2.8.6
